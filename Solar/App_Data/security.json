@@ -1,0 +1,19 @@
+{
+  "Groups": {
+    "fe9429ba-d5cd-4e7c-bbe4-05a4c3497d97": "Administrators",
+    "47af1b4e-ca11-421a-9a57-8c614b44da21": "Admins",
+    "d3bd3312-0730-43d9-9bf4-9e14c75b00f7": "Users"
+  },
+  "Rights": [
+    {
+      "Id": "3a8b304e-e031-48b4-b5dc-ec0341a85ccf",
+      "Resource": "Query/Solar",
+      "UserId": "d3bd3312-0730-43d9-9bf4-9e14c75b00f7"
+    },
+    {
+      "Id": "b3545a5d-4ddc-4ca9-82df-eb6d2ba3d81a",
+      "Resource": "QueryReadEditNew/Solar.FusionSolarCredential",
+      "UserId": "47af1b4e-ca11-421a-9a57-8c614b44da21"
+    }
+  ]
+}
